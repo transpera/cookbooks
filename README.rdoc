@@ -1,0 +1,2 @@
+= Chef Cookbooks
+Slightly modified versions of the ops code cookbooks. The main goal is to make them a bit more centos friendly.
