@@ -1,6 +1,6 @@
 DESCRIPTION
 ===========
-
+Hello Working in Master 2
 Installs capistrano RubyGem and provides a definition to set up directory structure to perform capistrano deployment.
 
 This cookbook is not necessary when using the Opscode application cookbook.
