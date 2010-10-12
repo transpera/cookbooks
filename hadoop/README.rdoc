@@ -1,6 +1,6 @@
 = DESCRIPTION:
 
-Yup, me testing again 2
+Yup, me testing o rly?
 
 Installs Apache hadoop and sets up a basic distributed cluster per the quick start documentation.
 
