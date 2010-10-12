@@ -1,5 +1,7 @@
 = DESCRIPTION:
 
+Yup, me testing again
+
 Installs Apache hadoop and sets up a basic distributed cluster per the quick start documentation.
 
 = REQUIREMENTS:
