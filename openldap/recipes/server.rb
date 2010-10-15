@@ -19,7 +19,7 @@
 include_recipe "openldap::client"
 
 case node[:platform]
-when "debian","ubuntu"
+when "debian","ubuntu","centos"
   cookbook_file "/var/cache/local/preseeding/slapd.seed" do
     source "slapd.seed"
     mode 0600
