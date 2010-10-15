@@ -1,7 +1,5 @@
 = DESCRIPTION:
 
-Clean slate finalish test
-
 Installs Apache hadoop and sets up a basic distributed cluster per the quick start documentation.
 
 = REQUIREMENTS:
