@@ -1,6 +1,6 @@
 = DESCRIPTION:
 
-Yup, me testing o rly?
+Clean slate
 
 Installs Apache hadoop and sets up a basic distributed cluster per the quick start documentation.
 
