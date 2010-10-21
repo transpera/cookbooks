@@ -5,7 +5,7 @@ description       "Installs and configures ntp as a client or server"
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           "0.8.2"
 
-recipe "ntp", "Installs and configures ntp either as a server or client"
+recipe "ntpserver", "Installs and configures ntp either as a server or client"
 
 %w{ ubuntu debian redhat centos fedora }.each do |os|
   supports os

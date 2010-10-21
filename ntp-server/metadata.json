@@ -95,7 +95,7 @@
       "ntp": "Installs and configures ntp either as a server or client"
     },
     "maintainer_email": "cookbooks@opscode.com",
-    "name": "ntp",
+    "name": "ntpserver",
     "conflicting": {
     },
     "description": "Installs and configures ntp as a client or server",
